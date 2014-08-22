@@ -1,0 +1,16 @@
+Return-Path: <thomas>
+Received: (from thomas@localhost)
+        by localhost (8.8.8/8.8.8) id OAA00987
+        for thomas; Tue, 22 Feb 2000 23:55:27 +0100
+Date: Tue, 22 Feb 2000 23:55:27 +0100
+From: thomas@localhost
+Message-Id: <200002221355.OAA00987@localhost>
+To: thomas@localhost
+Subject: Perl und POP3
+X-UIDL: 6be48a973d87a776ed1fd0135e28b0c2
+
+Hallo Thomas,
+
+Weisst du, wie man POP3-Server mit Perl anzapft?
+
+CU
